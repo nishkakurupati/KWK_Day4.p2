@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SecondView: View {
     var body: some View {
-        Text("You Arrived at the Second View!!")
+        Text("You Arrived at the Second View!")
             .font(.largeTitle)
             .multilineTextAlignment(.center)
     }
